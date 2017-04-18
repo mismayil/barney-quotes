@@ -1,0 +1,9 @@
+GetNewQuoteIntent a quote
+GetNewQuoteIntent a barney quote
+GetNewQuoteIntent a barney stinson quote
+GetNewQuoteIntent tell me a quote
+GetNewQuoteIntent tell me a barney quote
+GetNewQuoteIntent tell me a barney stinson quote
+GetNewQuoteIntent give me a quote
+GetNewQuoteIntent give me a barney quote
+GetNewQuoteIntent give me a barney stinson quote

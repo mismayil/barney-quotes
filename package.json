@@ -1,0 +1,29 @@
+{
+  "name": "barney-quotes",
+  "version": "1.0.0",
+  "description": "Get Inspired by awesome Barney Stinson quotes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mismayil/barney-quotes.git"
+  },
+  "keywords": [
+    "Alexa",
+    "skill",
+    "barney",
+    "stinson",
+    "quote"
+  ],
+  "author": "Mahammad Ismayilzada",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mismayil/barney-quotes/issues"
+  },
+  "homepage": "https://github.com/mismayil/barney-quotes#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8"
+  }
+}

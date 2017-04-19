@@ -7,3 +7,6 @@ GetNewQuoteIntent tell me a barney stinson quote
 GetNewQuoteIntent give me a quote
 GetNewQuoteIntent give me a barney quote
 GetNewQuoteIntent give me a barney stinson quote
+GetNewQuoteIntent inspire me
+GetNewQuoteIntent an inspiration
+GetNewQuoteIntent some wisdom
